@@ -1,1 +1,1 @@
-This is a repo for all the sem projects.
+This is a repo for all the mini projects.
